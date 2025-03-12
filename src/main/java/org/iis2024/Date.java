@@ -19,6 +19,7 @@ public class Date {
   private final int day;
   private final int month;
   private final int year;
+  private int minutes;
 
   public void Fran(){
     System.out.println("Method create by owner");
