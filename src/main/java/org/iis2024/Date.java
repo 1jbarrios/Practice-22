@@ -20,6 +20,9 @@ public class Date {
   private final int month;
   private final int year;
 
+  public void Fran(){
+    System.out.println("Method create by owner");
+  }
   /**
    * Retrieves the day component of this date.
    *
